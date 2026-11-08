@@ -1,0 +1,23 @@
+command:git init
+description: initializes a new git repository
+
+command:git clone
+description: copies an existing remote repository to your local machine
+
+command:git status
+description: shows the state of working directory and staged changes
+
+command:git add
+description: stages changes to prepare them for a commit
+
+command:git commit
+description: saves staged changes permanently to the local repository history
+
+command:git push
+description: uploads local commits to a remote repository
+
+command:git pull
+description: downloads and merges changes from a remote repository
+
+command:git checkout
+description: switches between different branches or commits
