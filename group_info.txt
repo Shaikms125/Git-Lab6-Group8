@@ -1,0 +1,8 @@
+Group Number: 8
+Member 1: Shakur - 2023-3-60-276
+Member 2: Sinha - 2023-3-60-281
+Member 3: Al Rafi - 2023-3-60-105
+Member 4: Swapnil - 2023-3-60-389
+Course Code: CSE-412
+Lab Work: 06
+Topic: Git Repository
